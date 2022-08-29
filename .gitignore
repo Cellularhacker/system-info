@@ -18,3 +18,6 @@ src/
 # IDE paths
 .idea/
 .vscode/
+
+# Sample Outputs direcotry
+sample/
